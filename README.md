@@ -2,9 +2,9 @@
 Kaggle - House Prices: Advanced Regression Techniques
 
 # Team Mates -
-Charu Rawat (cr4zy) - Data  Cleaning, Exploration, and Parametric Modeling
-Kanika Dawar (kd2hr) - Normalization and Non Parametric Modeling
-Sri Vaishnavi V (sv2fr) -  Normalization and Non Parametric Modeling - GitHub Manager
+* Charu Rawat (cr4zy) - Data  Cleaning, Exploration, and Parametric Modeling
+* Kanika Dawar (kd2hr) - Normalization and Non Parametric Modeling
+* Sri Vaishnavi V (sv2fr) -  Normalization and Non Parametric Modeling - GitHub Manager
 
 Collective discussion on selection of appropriate statistical methods and variable selection
 
